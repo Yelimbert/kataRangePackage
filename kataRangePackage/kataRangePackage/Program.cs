@@ -11,6 +11,19 @@ namespace kataRangePackage
 
             Console.WriteLine(KataR.KataRange.equals("(3,7)", "(3,7)"));
             Console.WriteLine(KataR.KataRange.equals("(3,7)", "(3,9)"));
+		
+
+	     Console.WriteLine(KataRange.contains("[2,9]","(3,6)"));
+            Console.WriteLine(KataRange.contains("[1,5]", "(7,9)"));
+
+            List<int> index = KataRange.GetAll("[1,8)");
+
+            foreach(int element in index)
+            {
+                Console.WriteLine(element);
+            }
+
+		
         }
     }
 }
