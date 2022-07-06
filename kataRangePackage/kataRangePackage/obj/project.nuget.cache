@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mTm9SvGgztpqo01udhRrHvPKIRVZzYuJ9YgogBhviDmAn5UJzZjjDvn4MgeBu4T1/UVxdux4PItoaNP0mmV7pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iJoseloHD\\Desktop\\kataRange\\kataRangePackage\\kataRangePackage\\kataRangePackage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iJoseloHD\\.nuget\\packages\\katar\\1.0.0\\katar.1.0.0.nupkg.sha512",
+    "C:\\Users\\iJoseloHD\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kataRangePackage", "kataRangePackage\kataRangePackage.csproj", "{FA7FEEEA-8D12-44FC-9036-B9EA50CEEFBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA7FEEEA-8D12-44FC-9036-B9EA50CEEFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7FEEEA-8D12-44FC-9036-B9EA50CEEFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7FEEEA-8D12-44FC-9036-B9EA50CEEFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7FEEEA-8D12-44FC-9036-B9EA50CEEFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47B87576-7E49-4798-82C3-5A452925788A}
+	EndGlobalSection
+EndGlobal
